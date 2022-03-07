@@ -11,5 +11,6 @@ Before starting my PhD at Duke, I completed my Bachelors and Masters degrees in 
 
 # Contact
 
-Address: Office 222, 214 Old Chemistry Building, Durham, NC 27708-0251.__Email: shounak [DOT] chattopadhyay [AT] duke [DOT] edu
+Address: Office 222, 214 Old Chemistry Building, Durham, NC 27708-0251.__
+Email: shounak [DOT] chattopadhyay [AT] duke [DOT] edu
 
