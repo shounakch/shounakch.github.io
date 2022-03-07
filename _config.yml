@@ -17,8 +17,7 @@ description: Welcome to my home page! I am a fourth year PhD student.
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Research: 
+  Research: "research"
   Teaching:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
