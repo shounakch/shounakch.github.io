@@ -17,7 +17,8 @@ navbar-links:
   Home: "index"
   Research: "research"
   Teaching: "teaching"
-
+  CV: "/assets/cv/cv.pdf"
+  Code: "code"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
