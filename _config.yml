@@ -39,6 +39,8 @@ round-avatar: true
 social-network-links:
   email: "shounak.chattopadhyay@duke.edu"
   github: shounakchattopadhyay
+  google-scholar: "https://scholar.google.com/citations?user=NRFqmXgAAAAJ&hl=en"
+  linkedin: "https://www.linkedin.com/in/shounak-chattopadhyay-139037159/"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -55,7 +57,6 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 
 # If you want your website to generate an RSS feed, provide a description
