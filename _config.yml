@@ -14,8 +14,9 @@ author: Shounak Chattopadhyay
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "index"
   Research: "research"
-  Teaching:
+  Teaching: "teaching"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
