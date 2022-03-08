@@ -11,4 +11,4 @@ Earlier, I had collaborated with [Antik Chakraborty](https://antik015.github.io/
 
 # Preprints
 
-1. Chattopadhyay, S., Chakraborty, A., & Dunson, D. B. (2020). Nearest Neighbor Dirichlet Mixtures. arXiv preprint arXiv:2003.07953. [arXiv](https://arxiv.org/abs/2003.07953)
+1. **Chattopadhyay, S.**, Chakraborty, A., & Dunson, D. B. (2020). Nearest Neighbor Dirichlet Mixtures. arXiv preprint arXiv:2003.07953. [arXiv](https://arxiv.org/abs/2003.07953)
