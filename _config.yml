@@ -39,8 +39,8 @@ round-avatar: true
 social-network-links:
   email: "shounak.chattopadhyay@duke.edu"
   github: shounakchattopadhyay
-  google-scholar: "https://scholar.google.com/citations?user=NRFqmXgAAAAJ&hl=en"
-  linkedin: "https://www.linkedin.com/in/shounak-chattopadhyay-139037159/"
+  google-scholar: "/citations?user=NRFqmXgAAAAJ&hl=en"
+  linkedin: "/in/shounak-chattopadhyay-139037159/"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
