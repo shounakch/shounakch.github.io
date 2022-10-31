@@ -12,7 +12,7 @@ Earlier, I had collaborated with [Antik Chakraborty](https://antik015.github.io/
 # Preprints
 
 1. **Chattopadhyay, S.**, Chakraborty, A., & Dunson, D. B. (2020). Nearest Neighbor Dirichlet Mixtures. arXiv preprint arXiv:2003.07953. [arXiv](https://arxiv.org/abs/2003.07953)
-2. **Chattopadhyay, S.**, Engel, S. M., & Dunson, D. (2022). Inferring Synergistic and Antagonistic Interactions in Mixtures of Exposures. arXiv preprint arXiv:2210.09279. [arXiv] (https://arxiv.org/abs/2210.09279)
-3. Maitre, L., Guimbaud, J. B., Warembourg, C., Güil-Oumrait, N., Petrone, P. M., Chadeau-Hyam, M., ... & **Exposome Data Challenge Participant Consortium**. (2022). State-of-the-art methods for exposure-health studies: results from the exposome data challenge event. Environment International, 168, 107422. [Link] (https://www.sciencedirect.com/science/article/pii/S016041202200349X)
+2. **Chattopadhyay, S.**, Engel, S. M., & Dunson, D. (2022). Inferring Synergistic and Antagonistic Interactions in Mixtures of Exposures. arXiv preprint arXiv:2210.09279. [arXiv](https://arxiv.org/abs/2210.09279)
+3. Maitre, L., Guimbaud, J. B., Warembourg, C., Güil-Oumrait, N., Petrone, P. M., Chadeau-Hyam, M., ... & **Exposome Data Challenge Participant Consortium**. (2022). State-of-the-art methods for exposure-health studies: results from the exposome data challenge event. Environment International, 168, 107422. [Link](https://www.sciencedirect.com/science/article/pii/S016041202200349X)
 
 
