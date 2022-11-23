@@ -3,7 +3,7 @@ layout: home
 title: Shounak Chattopadhyay
 ---
 
-Hi! I'm a fifth year Ph. D. student at the [Department of Statistical Science, Duke University](https://stat.duke.edu/), working under the supervision of [Prof. David Dunson](https://scholars.duke.edu/person/dunson).
+Hi! I'm a fifth year Ph. D. student at the [Department of Statistical Science, Duke University](https://stat.duke.edu/), working under the supervision of [Dr. David B. Dunson](https://scholars.duke.edu/person/dunson).
 
 # About Me
 
