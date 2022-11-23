@@ -3,16 +3,25 @@ layout: page
 title: Research
 ---
 
-I am interested in developing scalable and structured Bayesian methods which are interpretable. Such methods require building probabilistic models relying on incorporating available prior knowledge about the specific problem. In particular, I am intrigued by shape constrained function estimation, latent factor models, and density estimation. I am also interested in assessing the impact of environmental exposures on human health from epidemiological data. 
+I am interested in developing scalable and structured Bayesian methods which are interpretable. Such methods require building probabilistic models relying on incorporating available prior knowledge about the specific problem. In particular, I am intrigued by shape constrained function estimation, latent factor models, and nonparametric Bayesian methods. I am also interested in assessing the impact of environmental exposures on human health from epidemiological data. 
 
-Recently, I have been collaborating with [Wesley Tansey](http://wesleytansey.com/) to think about modeling drug combinations in high-throughput cancer data, which can be complex and computationally challenging. 
+Recently, I have been 
 
-Earlier, I had collaborated with [Antik Chakraborty](https://antik015.github.io/) in developing [**Nearest Neighbor Dirichlet Mixtures**](https://arxiv.org/abs/2003.07953), a scalable method for density estimation as an alternative to traditional Bayesian density estimators such as the [Dirichlet process mixture model](https://www.gatsby.ucl.ac.uk/~ywteh/research/npbayes/dp.pdf). 
+1. Collaborating with [Wesley Tansey](http://wesleytansey.com/) to think about modeling drug combinations in high-throughput cancer data, which can be complex and computationally challenging. 
+2. Working on an embarrassingly parallel method for covariance estimation in Bayesian latent factor models.
+
+Earlier, I had 
+
+1. Collaborated with [Antik Chakraborty](https://antik015.github.io/) in developing [**Nearest Neighbor Dirichlet Mixtures**](https://arxiv.org/abs/2003.07953), a scalable method for density estimation as an alternative to traditional Bayesian density estimators such as the [Dirichlet process mixture model](https://www.gatsby.ucl.ac.uk/~ywteh/research/npbayes/dp.pdf). 
+2. Developed an interpretable and efficient methodology for detection of synergistic and antagonistic interactions between toxic chemicals in epidemiological data.
 
 # Preprints
 
 1. **Chattopadhyay, S.**, Chakraborty, A., & Dunson, D. B. (2020). Nearest Neighbor Dirichlet Mixtures. arXiv preprint arXiv:2003.07953. [arXiv](https://arxiv.org/abs/2003.07953)
 2. **Chattopadhyay, S.**, Engel, S. M., & Dunson, D. (2022). Inferring Synergistic and Antagonistic Interactions in Mixtures of Exposures. arXiv preprint arXiv:2210.09279. [arXiv](https://arxiv.org/abs/2210.09279)
-3. Maitre, L., Guimbaud, J. B., Warembourg, C., Güil-Oumrait, N., Petrone, P. M., Chadeau-Hyam, M., ... & **Exposome Data Challenge Participant Consortium**. (2022). State-of-the-art methods for exposure-health studies: results from the exposome data challenge event. Environment International, 168, 107422. [Link](https://www.sciencedirect.com/science/article/pii/S016041202200349X)
+
+# Publications
+
+1. Maitre, L., Guimbaud, J. B., Warembourg, C., Güil-Oumrait, N., Petrone, P. M., Chadeau-Hyam, M., ... & **Exposome Data Challenge Participant Consortium**. (2022). State-of-the-art methods for exposure-health studies: results from the exposome data challenge event. Environment International, 168, 107422. [Link](https://www.sciencedirect.com/science/article/pii/S016041202200349X)
 
 
