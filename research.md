@@ -8,7 +8,7 @@ I am interested in developing scalable and structured Bayesian methods which are
 Recently, I have been 
 
 1. Collaborating with [Dr. Wesley Tansey](http://wesleytansey.com/) to think about modeling drug combinations in high-throughput cancer data, which can be complex and computationally challenging. 
-2. Working on an embarrassingly parallel method for covariance estimation in Bayesian latent factor models.
+2. Working on developing a scalable approach for covariance estimation in Bayesian latent factor models.
 
 Earlier, I had 
 
