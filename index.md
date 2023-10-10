@@ -3,14 +3,14 @@ layout: home
 title: Shounak Chattopadhyay
 ---
 
-Hi! I'm a fifth year Ph. D. student at the [Department of Statistical Science, Duke University](https://stat.duke.edu/), working under the supervision of [Dr. David B. Dunson](https://scholars.duke.edu/person/dunson).
+Hi! I'm a Postdoctoral Scholar at the University of California, Los Angeles, working with [Dr. Marc A. Suchard](https://suchard-group.github.io/).
 
 # About Me
 
-Before starting my Ph. D. at Duke, I completed my Bachelors and Masters degrees in Statistics from the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/). I became fascinated with Bayesian Statistics after coming to know about [Lindley's Paradox](https://en.wikipedia.org/wiki/Lindley%27s_paradox). 
+Before UCLA, I completed my Ph. D. at the Department of Statistical Sciene, Duke University, under the supervision of [Dr. David B. Dunson](https://scholars.duke.edu/person/dunson). I completed my Bachelors and Masters degrees in Statistics from the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/). I became fascinated with Bayesian Statistics after coming to know about [Lindley's Paradox](https://en.wikipedia.org/wiki/Lindley%27s_paradox). 
 
 # Contact
 
-**Address:** Office 222, 214 Old Chemistry Building, Durham, NC 27708-0251.<br />
+**Address:** Gonda, 695 Charles E Young Drive South, Los Angeles, CA 90095<br />
 **Email:** shounak [DOT] chattopadhyay [AT] duke [DOT] edu
 
