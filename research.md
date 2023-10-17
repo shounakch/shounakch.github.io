@@ -19,6 +19,6 @@ Earlier, I had
 # Publications
 
 1. Maitre, L., Guimbaud, J. B., Warembourg, C., Güil-Oumrait, N., Petrone, P. M., Chadeau-Hyam, M., ... & **Exposome Data Challenge Participant Consortium**. (2022). State-of-the-art methods for exposure-health studies: results from the exposome data challenge event. _Environment International_. [Link](https://www.sciencedirect.com/science/article/pii/S016041202200349X)
-2. **Chattopadhyay, S.**, Chakraborty, A., & Dunson, D. B. (2020). Nearest Neighbor Dirichlet Mixtures. _Journal of Machine Learning Research (just accepted)_. [arXiv](https://arxiv.org/abs/2003.07953)
+2. **Chattopadhyay, S.**, Chakraborty, A., & Dunson, D. B. (2023). Nearest Neighbor Dirichlet Mixtures. _Journal of Machine Learning Research (just accepted)_. [arXiv](https://arxiv.org/abs/2003.07953)
 
 
