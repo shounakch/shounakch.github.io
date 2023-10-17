@@ -3,12 +3,9 @@ layout: page
 title: Research
 ---
 
-I am interested in developing scalable and structured Bayesian methods which are interpretable. Such methods require building probabilistic models relying on incorporating available prior knowledge about the specific problem. In particular, I am intrigued by shape constrained function estimation, latent factor models, and nonparametric Bayesian methods. I am also interested in assessing the impact of environmental exposures on human health from epidemiological data. 
+I am interested in developing scalable and structured Bayesian methods which are interpretable. Such methods require building probabilistic models relying on incorporating available prior knowledge about the specific problem. In particular, I am intrigued by shape constrained function estimation, latent factor models, and nonparametric Bayesian methods. I am also interested in large-scale observational data driven inferences regarding matters of public health.
 
-Recently, I have been 
-
-1. Thinking about modeling drug combinations in high-throughput cancer data, which can be complex and computationally challenging. 
-2. Working on developing a scalable approach for covariance estimation in Bayesian latent factor models.
+Recently, I have been working on developing a scalable approach for covariance estimation in Bayesian latent factor models.
 
 Earlier, I had 
 
@@ -17,11 +14,11 @@ Earlier, I had
 
 # Preprints
 
-1. **Chattopadhyay, S.**, Chakraborty, A., & Dunson, D. B. (2020). Nearest Neighbor Dirichlet Mixtures. arXiv preprint arXiv:2003.07953. [arXiv](https://arxiv.org/abs/2003.07953)
-2. **Chattopadhyay, S.**, Engel, S. M., & Dunson, D. (2022). Inferring Synergistic and Antagonistic Interactions in Mixtures of Exposures. arXiv preprint arXiv:2210.09279. [arXiv](https://arxiv.org/abs/2210.09279)
+1. **Chattopadhyay, S.**, Engel, S. M., & Dunson, D. (2022). Inferring Synergistic and Antagonistic Interactions in Mixtures of Exposures. arXiv preprint arXiv:2210.09279. [arXiv](https://arxiv.org/abs/2210.09279)
 
 # Publications
 
-1. Maitre, L., Guimbaud, J. B., Warembourg, C., Güil-Oumrait, N., Petrone, P. M., Chadeau-Hyam, M., ... & **Exposome Data Challenge Participant Consortium**. (2022). State-of-the-art methods for exposure-health studies: results from the exposome data challenge event. Environment International, 168, 107422. [Link](https://www.sciencedirect.com/science/article/pii/S016041202200349X)
+1. Maitre, L., Guimbaud, J. B., Warembourg, C., Güil-Oumrait, N., Petrone, P. M., Chadeau-Hyam, M., ... & **Exposome Data Challenge Participant Consortium**. (2022). State-of-the-art methods for exposure-health studies: results from the exposome data challenge event. _Environment International_. [Link](https://www.sciencedirect.com/science/article/pii/S016041202200349X)
+2. **Chattopadhyay, S.**, Chakraborty, A., & Dunson, D. B. (2020). Nearest Neighbor Dirichlet Mixtures. _Journal of Machine Learning Research (just accepted)_. [arXiv](https://arxiv.org/abs/2003.07953)
 
 
