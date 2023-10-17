@@ -12,5 +12,5 @@ Before UCLA, I completed my Ph. D. at the Department of Statistical Sciene, Duke
 # Contact
 
 **Address:** Gonda, 695 Charles E Young Drive South, Los Angeles, CA 90095<br />
-**Email:** shounak [DOT] chattopadhyay [AT] duke [DOT] edu
+**Email:** shounak [DOT] chattopadhyay [AT] ucla [DOT] edu
 
