@@ -5,8 +5,6 @@ title: Research
 
 I am interested in developing scalable and structured Bayesian methods which are interpretable. Such methods require building probabilistic models relying on incorporating available prior knowledge about the specific problem. In particular, I am intrigued by shape constrained function estimation, latent factor models, and nonparametric Bayesian methods. I am also interested in large-scale observational data driven inferences regarding matters of public health.
 
-Recently, I have been working on developing a scalable approach for covariance estimation in Bayesian latent factor models.
-
 Earlier, I had 
 
 1. Collaborated with [Dr. Antik Chakraborty](https://antik015.github.io/) in developing [**Nearest Neighbor Dirichlet Mixtures**](https://arxiv.org/abs/2003.07953), a scalable method for density estimation as an alternative to traditional Bayesian density estimators such as the [Dirichlet process mixture model](https://www.gatsby.ucl.ac.uk/~ywteh/research/npbayes/dp.pdf). 
