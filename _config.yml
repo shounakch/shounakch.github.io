@@ -37,8 +37,8 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "shounak.chattopadhyay@duke.edu"
-  github: shounakchattopadhyay
+  email: "shounak.chattopadhyay@ucla.edu"
+  github: shounakch
   google-scholar: "/citations?user=NRFqmXgAAAAJ&hl=en"
   linkedin: "shounak-chattopadhyay-139037159"
 #  medium: yourname
@@ -206,7 +206,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/New_York"
+timezone: "America/Los_Angeles"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
