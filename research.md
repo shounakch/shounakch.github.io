@@ -7,7 +7,7 @@ I am interested in developing scalable, structured, and interpretable Bayesian m
 
 (1) incorporating prior information relevant to a specific problem of interest, 
 
-(2) bypassing possible computational bottlenecks, and 
+(2) bypassing existing computational bottlenecks, and 
 
 (3) demonstrating provable theoretical guarantees. 
 
