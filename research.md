@@ -11,7 +11,7 @@ I am interested in developing scalable, structured, and interpretable Bayesian m
 
 (3) obtaining provable theoretical guarantees. 
 
-I am also interested in large-scale observational data driven inference in the context of public health.
+As a part of the [OHDSI](https://ohdsi.org/) community, I am passionate about large-scale observational data driven inference in the context of public health.
 
 <!--- Earlier, I had 
 
@@ -20,13 +20,13 @@ I am also interested in large-scale observational data driven inference in the c
 
 # Preprints
 
-1. **Chattopadhyay, S.**, Engel, S. M., & Dunson, D. (2022). Inferring Synergistic and Antagonistic Interactions in Mixtures of Exposures. arXiv preprint arXiv:2210.09279. [arXiv](https://arxiv.org/abs/2210.09279)
-2. Khera, R., Aminorroaya, A., Dhingra, L.S., Thangaraj, P.M., Camargos, A.P., Bu, F., Ding, X., Nishimura, A., Anand, T.V., Arshad, F. and Blacketer, C., Chai, Y., **Chattopadhyay, S.** et al. (2024). Comparative Effectiveness of Second-line Antihyperglycemic Agents for Cardiovascular Outcomes: A Large-scale, Multinational, Federated Analysis of the LEGEND-T2DM Study. medRxiv, pp.2024-02. [medRxiv](https://www.medrxiv.org/content/10.1101/2024.02.05.24302354v2)
-3. **Chattopadhyay, S.**, Zhang, A. R., & Dunson, D. B. (2024). Blessing of dimension in Bayesian inference on covariance matrices. arXiv preprint arXiv:2404.03805. [arXiv](https://arxiv.org/abs/2404.03805)
+1. **Chattopadhyay, S.**, Engel, S. M., & Dunson, D. (2022). Inferring Synergistic and Antagonistic Interactions in Mixtures of Exposures. arXiv preprint arXiv:2210.09279. [(Link)](https://arxiv.org/abs/2210.09279)
+2. Khera, R., Aminorroaya, A., Dhingra, L.S., Thangaraj, P.M., Camargos, A.P., Bu, F., Ding, X., Nishimura, A., Anand, T.V., Arshad, F. and Blacketer, C., Chai, Y., **Chattopadhyay, S.** et al. (2024). Comparative Effectiveness of Second-line Antihyperglycemic Agents for Cardiovascular Outcomes: A Large-scale, Multinational, Federated Analysis of the LEGEND-T2DM Study. medRxiv, pp.2024-02. [(Link)](https://www.medrxiv.org/content/10.1101/2024.02.05.24302354v2)
+3. **Chattopadhyay, S.**, Zhang, A. R., & Dunson, D. B. (2024). Blessing of dimension in Bayesian inference on covariance matrices. arXiv preprint arXiv:2404.03805. [(Link)](https://arxiv.org/abs/2404.03805)
 
 # Publications
 
 1. Maitre, L., Guimbaud, J. B., Warembourg, C., Güil-Oumrait, N., Petrone, P. M., Chadeau-Hyam, M., ... & **Exposome Data Challenge Participant Consortium**. (2022). State-of-the-art methods for exposure-health studies: results from the exposome data challenge event. _Environment International_. [Link](https://www.sciencedirect.com/science/article/pii/S016041202200349X)
-2. **Chattopadhyay, S.**, Chakraborty, A., & Dunson, D. B. (2023). Nearest Neighbor Dirichlet Mixtures. _Journal of Machine Learning Research_. [link](https://www.jmlr.org/papers/v24/21-0116.html)
+2. **Chattopadhyay, S.**, Chakraborty, A., & Dunson, D. B. (2023). Nearest Neighbor Dirichlet Mixtures. _Journal of Machine Learning Research_. [Link](https://www.jmlr.org/papers/v24/21-0116.html)
 
 
