@@ -3,7 +3,13 @@ layout: page
 title: Research
 ---
 
-I am interested in developing scalable and structured Bayesian methods which are interpretable. Such methods require building probabilistic models relying on incorporating available prior knowledge about the specific problem. In particular, I am intrigued by shape constrained function estimation, latent factor models, and nonparametric Bayesian methods. I am also interested in large-scale observational data driven inferences regarding matters of public health.
+I am interested in developing scalable, structured, and interpretable Bayesian methods, with a focus on Bayesian nonparametrics. These often involve building probabilistic models, with particular interests including: 
+
+(1) incorporating prior information relevant to a specific problem of interest, 
+(2) bypassing possible computational bottlenecks, and 
+(3) demonstrating provable theoretical guarantees. 
+
+I am also interested in large-scale observational data driven inference in the context of public health.
 
 <!--- Earlier, I had 
 
