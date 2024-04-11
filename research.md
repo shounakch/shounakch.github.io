@@ -26,7 +26,7 @@ As a part of the [OHDSI](https://ohdsi.org/) community, I am passionate about la
 
 # Publications
 
-1. Maitre, L., Guimbaud, J. B., Warembourg, C., Güil-Oumrait, N., Petrone, P. M., Chadeau-Hyam, M., ... & **Exposome Data Challenge Participant Consortium**. (2022). State-of-the-art methods for exposure-health studies: results from the exposome data challenge event. _Environment International_. [Link](https://www.sciencedirect.com/science/article/pii/S016041202200349X)
-2. **Chattopadhyay, S.**, Chakraborty, A., & Dunson, D. B. (2023). Nearest Neighbor Dirichlet Mixtures. _Journal of Machine Learning Research_. [Link](https://www.jmlr.org/papers/v24/21-0116.html)
+1. Maitre, L., Guimbaud, J. B., Warembourg, C., Güil-Oumrait, N., Petrone, P. M., Chadeau-Hyam, M., ... & **Exposome Data Challenge Participant Consortium**. (2022). State-of-the-art methods for exposure-health studies: results from the exposome data challenge event. _Environment International_. [(Link)](https://www.sciencedirect.com/science/article/pii/S016041202200349X)
+2. **Chattopadhyay, S.**, Chakraborty, A., & Dunson, D. B. (2023). Nearest Neighbor Dirichlet Mixtures. _Journal of Machine Learning Research_. [(Link)](https://www.jmlr.org/papers/v24/21-0116.html)
 
 
