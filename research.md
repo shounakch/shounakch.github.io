@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-I am interested in developing scalable, structured, and interpretable Bayesian methods, with a focus on Bayesian nonparametrics. These often involve building probabilistic models, with particular interests including: 
+I am interested in developing scalable, structured, and interpretable Bayesian methods, with a focus on Bayesian nonparametrics. These often involve building probabilistic models, with particular interests being: 
 
 (1) incorporating prior information relevant to a specific problem of interest, 
 
