@@ -9,7 +9,7 @@ I am interested in developing scalable, structured, and interpretable Bayesian m
 
 (2) bypassing existing computational bottlenecks, and 
 
-(3) demonstrating provable theoretical guarantees. 
+(3) obtaining provable theoretical guarantees. 
 
 I am also interested in large-scale observational data driven inference in the context of public health.
 
