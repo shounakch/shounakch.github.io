@@ -11,7 +11,7 @@ I am interested in developing scalable, structured, and interpretable Bayesian m
 
 (3) obtaining provable theoretical guarantees. 
 
-As a part of the [OHDSI](https://ohdsi.org/) community, I am passionate about delivering reliable large-scale observational data driven inference in the context of public health.
+As a part of the [OHDSI](https://ohdsi.org/) community, I am passionate about delivering reliable large-scale observational data driven inference to help clinical decision-making in the face of uncertainty.
 
 <!--- Earlier, I had 
 
