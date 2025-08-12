@@ -15,6 +15,6 @@ Hi! I'm an Assistant Professor in the [Department of Statistics](https://statist
 
 # Contact
 
-**Address:** Gonda, 695 Charles E Young Drive South, Los Angeles, CA 90095<br />
-**Email:** shounak [DOT] chattopadhyay [AT] ucla [DOT] edu
+**Address:** 148 Amphitheater Way, Charlottesville, VA 22903<br />
+**Email:** shounakch [AT] virginia [DOT] edu
 
